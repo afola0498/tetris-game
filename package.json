@@ -1,0 +1,9 @@
+{
+  "name": "tetris-node",
+  "version": "1.0.0",
+  "description": "A simple Tetris game served by Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
